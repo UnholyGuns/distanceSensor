@@ -1,0 +1,1 @@
+Simple test for HC-SR04 sensor. Probably wont make any sense unless you read a little bit about it.
